@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I am Shreshth Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-<h4 align="center">Energetic Developer and Infosec enthusiast!</h4>
+<h4 align="center">Energetic Developer and Tech enthusiast!</h4>
 
 - 🔭 Most Recent Project **[BlogSite](https://github.com/KINGUSSS2627/BlogPage)**
 
