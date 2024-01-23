@@ -3,7 +3,7 @@
 
 - 🔭 Most Recent Project **[BlogSite](https://github.com/KINGUSSS2627/BlogPage)**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **TypeScript**
 <!--
  😄 Main writer and Founder **@theWeekndStartup**
 
